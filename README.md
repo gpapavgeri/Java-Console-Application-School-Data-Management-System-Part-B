@@ -1,4 +1,4 @@
-# Private School Project - Part B
+# Java Console Application School Data Management - Part B
 The development of this project includes the implementation of a private school structure. 
 
 The application needs to hold in a database multiple courses along with the enrolled students, the trainers that teach the subjects and the assignments that the students need to submit during the course duration. 
